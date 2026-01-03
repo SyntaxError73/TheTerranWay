@@ -53,7 +53,7 @@ Despite his intimidating biology, Primal is one of the most emotionally consider
 ## Notable Scenes
 
 - [The Hunt](../scenes/the-hunt.md/)
-- [Keeping the Shed](../scenes/keeping-the-shed.md/)
+- [Keeping the Shed](../scenes/what-remains.md/)
 - [Primal](../scenes/primal.md/)
 
 ---
