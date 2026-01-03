@@ -56,7 +56,7 @@ Jeannie loves her children fiercely, even when she doesn’t fully understand th
 ## Notable Scenes
 
 - [Too Loud Without Meaning To](../scenes/too-loud.md/)
-- [The Walk](../scenes/the-walk.md/)
+- [The Thing Said Out Loud](../scenes/the-walk.md/)
 - [Lakeside Family Dinner](../scenes/lakeside-family-dinner.md/)
 - [One From Each Clutch](../scenes/one-from-each-clutch.md/)
 ---
