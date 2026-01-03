@@ -85,3 +85,5 @@ She blinked. “…I do not.”
 He nodded, relieved. “Yeah.”
 
 And just like that, Earth adjusted—not by manufacturing something new, but by letting a family build what they needed with their own hands.
+
+Next: [Escalation](escalation.md/)
