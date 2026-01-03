@@ -63,4 +63,4 @@ John believes life should be enjoyed, even when it’s difficult.
 
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
