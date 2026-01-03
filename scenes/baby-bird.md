@@ -93,3 +93,6 @@ Still best friends.
 Forever had always meant something to them.
 
 And it still did. 💚
+
+
+Next: [Eric Noticing](eric-noticing.md/)
