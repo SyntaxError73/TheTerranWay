@@ -56,9 +56,9 @@ Lewis thrives on ideas — not necessarily finishing them, but *starting* them.
 
 ## Notable Scenes
 
-- [Library Day](../scenes/library-day/)
-- [Dream Maps](../scenes/dream-maps/)
-- [Pillow Fight](../scenes/pillow-fight/)
+- [Absolutely Not Canon](../scenes/absolutely-not-canon.md/)
+- [Dream Maps](../scenes/dream-maps.md/)
+- [Pillow Fight](../scenes/pillow-fight.md/)
 
 ---
 
