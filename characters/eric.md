@@ -55,9 +55,9 @@ Eric is often the one others turn to after things go wrong — not to fix them, 
 
 ## Notable Scenes
 
-- [After the Snap](../scenes/after-the-snap/)
-- [Standing Her Ground](../scenes/standing-her-ground/)
-- [Family Dinner](../scenes/family-dinner/)
+- [After the Snap](../scenes/after-the-snap.md/)
+- [Standing Her Ground](../scenes/standing-her-ground.md/)
+- [Family Dinner](../scenes/family-dinner.md/)
 
 ---
 
