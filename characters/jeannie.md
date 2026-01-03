@@ -1,3 +1,5 @@
+![Jeannie – profile](../assets/images/JeannieHunter.png)
+
 # Jeannie Hunter
 
 > “I just wish y’all would explain it slower.”
