@@ -22,9 +22,11 @@ All content is shared for **entertainment and storytelling purposes only**.
 
 ## Explore
 
-- [Characters](characters/)
+- [Characters](characters/index.md)
 - [Scenes](scenes/index.md)
 - [World & Lore](world/)
+
+- [Gallery](gallery/index.md)
 
 ---
 
