@@ -1,4 +1,4 @@
-![Ashley – profile](../assets/images/AshleyPfP.png)
+![Ashley – profile](../assets/images/ashleypfp2.png)
 
 # Ashley Hunter
 
