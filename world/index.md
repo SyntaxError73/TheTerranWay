@@ -193,3 +193,5 @@ This world is not about grand wars or heroes — it is about **people learning h
 ---
 
 *This page is intended as a living document and may expand over time.*
+
+← [Back to Home](../index.md)
