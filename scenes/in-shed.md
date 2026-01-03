@@ -89,3 +89,5 @@ It always did.
 And this time, she’d remember — dimly, reluctantly — that being cared for didn’t make her weak.
 
 It just meant she wasn’t alone.
+
+Next: [What Remains](what-remains.md/)
