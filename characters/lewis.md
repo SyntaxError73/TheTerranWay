@@ -1,3 +1,5 @@
+![Lewis Hunter – Profile](../assets/images/LewisNewtHunter.png)
+
 # Lewis “Newt” Hunter
 
 > “Okay, but what if—”
