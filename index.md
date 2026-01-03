@@ -24,7 +24,7 @@ All content is shared for **entertainment and storytelling purposes only**.
 
 - [Characters](characters/index.md)
 - [Scenes](scenes/index.md)
-- [World & Lore](world/)
+- [World & Lore](world/index.md)
 
 - [Gallery](gallery/index.md)
 
