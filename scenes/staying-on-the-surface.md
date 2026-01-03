@@ -83,3 +83,5 @@ Because staying afloat wasn’t about bravery — it was about knowing your body
 And that was how she stayed alive.
 
 Every time.
+
+Next: [What Stays With You](what-stays-with-you.md/)
