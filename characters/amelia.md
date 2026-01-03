@@ -1,3 +1,5 @@
+![Amelia – profile](../assets/images/ameliapfp.png)
+
 # Amelia
 
 > “I promise I’m not mad. I’m just thinking.”
