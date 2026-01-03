@@ -84,6 +84,6 @@
 - [The Second Diagram](the-second-diagram.md/)
 - [Morning Questions](morning-questions.md/)
 - [Demonstration](demonstration.md/)
-- [Titles Earned](titles-earned.md/)
+- [Titles Earned Fair and Square](titles-earned.md/)
 
 ← [Back to Home](../)
