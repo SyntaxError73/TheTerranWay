@@ -57,7 +57,7 @@ Jeannie loves her children fiercely, even when she doesn’t fully understand th
 
 - [Too Loud Without Meaning To](../scenes/too-loud.md/)
 - [The Walk](../scenes/the-walk.md/)
-- [Family Dinner](../scenes/family-dinner.md/)
+- [Lakeside Family Dinner](../scenes/lakeside-family-dinner.md/)
 - [One From Each Clutch](../scenes/one-from-each-clutch.md/)
 ---
 
