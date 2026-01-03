@@ -55,9 +55,9 @@ She prefers quiet environments, structured spaces, and creative expression throu
 
 ## Notable Scenes
 
-- [Library Day](../scenes/library-day/)
-- [In Shed](../scenes/in-shed/)
-- [Taxi Home](../scenes/taxi-home/)
+- [Library Day](../scenes/library-day.md/)
+- [In Shed](../scenes/in-shed.md/)
+- [Baby Bird](../scenes/baby-bird.md/)
 
 ---
 
