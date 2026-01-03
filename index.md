@@ -23,7 +23,7 @@ All content is shared for **entertainment and storytelling purposes only**.
 ## Explore
 
 - [Characters](characters/)
-- [Scenes](scenes/)
+- [Scenes](scenes/index.md)
 - [World & Lore](world/)
 
 ---
