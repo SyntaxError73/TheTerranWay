@@ -69,4 +69,4 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
