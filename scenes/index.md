@@ -42,6 +42,7 @@
 - [Layers](layers.md/)
 - [Home](back-home.md/)
 - [Shortcuts](shortcuts.md/)
+- [Only Hatchling](only-hatchling.md/)
 
 ## Humor
 - [The Fridge](the-fridge.md/)
