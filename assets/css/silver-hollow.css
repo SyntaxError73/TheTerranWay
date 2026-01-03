@@ -1,0 +1,41 @@
+/* Silver Hollow theme override (Lore pages) */
+:root{
+  --bg: #06090c;                 /* darker, colder */
+  --text: #eaf7ff;
+
+  --panel: rgba(16,22,28,.82);   /* smoky panel */
+  --panel-text: #eaf7ff;
+
+  --fog: #63d6ff;
+  --fog-soft: rgba(99,214,255,.12);
+
+  --border: rgba(99,214,255,.18);
+  --shadow: 0 18px 60px rgba(0,0,0,.55);
+}
+
+body{
+  /* add “foggy night” feeling */
+  background:
+    radial-gradient(1100px 700px at 50% 10%, rgba(99,214,255,.10), transparent 60%),
+    radial-gradient(900px 650px at 15% 35%, rgba(99,214,255,.08), transparent 55%),
+    radial-gradient(900px 650px at 85% 50%, rgba(255,255,255,.05), transparent 55%),
+    var(--bg);
+}
+
+main, .page-content, .wrapper, .container{
+  border: 1px solid rgba(99,214,255,.20);
+}
+
+/* Links become “rift glow” by default */
+a{
+  color: var(--fog);
+}
+a:hover{
+  color: #dff8ff;
+  background: var(--fog-soft);
+  box-shadow: 0 0 0 4px var(--fog-soft), 0 0 24px rgba(99,214,255,.22);
+}
+blockquote{
+  background: rgba(99,214,255,.08);
+  border-left-color: rgba(99,214,255,.45);
+}
