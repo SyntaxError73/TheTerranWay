@@ -8,4 +8,4 @@
 - [John Hunter](john.md/)
 - [Primal](primal.md/)
 
-← [Back to Home](../)
+← [Back to Home](../index.md)
