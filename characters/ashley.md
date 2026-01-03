@@ -105,4 +105,12 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 
 ---
 
+> **About the Audio**
+>  
+> The voices heard in these recordings were created with the help of AI tools and do not belong to real people.  
+>  
+> Ashley Hunter, however, is very real to me — she exists as a character, a story, and a reflection of lived thoughts and feelings.  
+> These recordings are creative interpretations meant to give her voice a form, not to present it as reality.
+
+
 ← [Back to Characters](./index.md)
