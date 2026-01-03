@@ -5,7 +5,7 @@ title: Home
 
 # The Terran Way
 ...
-# The Terran Way
+
 
 Welcome to a personal fiction archive featuring original characters and slice-of-life stories set across Terra, Earth, and beyond.
 
