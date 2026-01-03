@@ -58,7 +58,7 @@ Lewis thrives on ideas — not necessarily finishing them, but *starting* them.
 
 - [Absolutely Not Canon](../scenes/absolutely-not-canon.md/)
 - [Dream Maps](../scenes/dream-maps.md/)
-- [Pillow Fight](../scenes/pillow-fight.md/)
+- [A Day Without the Buffer](../scenes/a-day-without-the-buffer.md/)
 
 ---
 
