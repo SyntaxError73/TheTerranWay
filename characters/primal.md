@@ -58,4 +58,4 @@ Despite his intimidating biology, Primal is one of the most emotionally consider
 
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
