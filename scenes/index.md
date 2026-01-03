@@ -7,11 +7,14 @@
 - [Right Before Sleep](right-before-sleep.md/)
 - [Clear Skies, Hypothetically](clear-skies.md/)
 - [What She Wears](what-she-wears.md/)
-- [Family Game Night](family-game-night.md/)
+- [Player Select](player-select.md/)
 - [What Each of Them is For](each-of-them.md/)
 - [Jeannie's Latest Phase](latest-phase.md/)
 - ["Let's See What Happens"](lets-see-what-happens.md/)
 - [Seed Packets](seed-packets.md/)
+- [Off The Grid](off-the-grid.md/)
+- [Sidewalk Mornings](sidewalk-mornings.md/)
+- [Second Persom](second-person.md/)
 
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
@@ -25,6 +28,7 @@
 - [The Hard Part Isn't Where She's Going](transitions.md/)
 - [Learning the Timing](learning-the-timing.md/)
 - [Not Turning Her Back On Herself](no-self-betrayal.md/)
+- [No Shortcuts Today](no-shortcuts-today.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
@@ -36,6 +40,8 @@
 - [Just a Little Garden](just-a-little-garden.md/)
 - [The Ones She Doesn't Trust](ashley-vs-dogs.md/)
 - [Layers](layers.md/)
+- [Home](back-home.md/)
+- [Shortcuts](shortcuts.md/)
 
 ## Humor
 - [The Fridge](the-fridge.md/)
@@ -43,5 +49,10 @@
 - [Actually, It Makes Sense if you Think About it](actually.md/)
 - [Freshly Seasoned Hell](freshly-seasoned-hell.md/)
 - [He Who Hurls the Most](he-who-hurls.md/)
+- [Walls, Thin Enough](walls-thin-enough.md/)
+- [Remote Control](remote-control.md/)
+- [Purring](purring.md/)
+- [Distribution](distribution.md/)
+- [Escalation](escalation.md/)
 
 ← [Back to Home](../)
