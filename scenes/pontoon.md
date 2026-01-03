@@ -110,4 +110,4 @@ He smiled back.
 
 And Amelia floated, content, letting the current do the work for once.
 
-Next:
+Next: [Lakeside Family Dinner](lakeside-family-dinner.md/)
