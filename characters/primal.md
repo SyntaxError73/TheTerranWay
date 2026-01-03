@@ -54,7 +54,7 @@ Despite his intimidating biology, Primal is one of the most emotionally consider
 
 - [The Hunt](../scenes/the-hunt.md/)
 - [Keeping the Shed](../scenes/keeping-the-shed.md/)
-- [Quiet Company](../scenes/quiet-company.md/)
+- [Primal](../scenes/primal.md/)
 
 ---
 
