@@ -1,4 +1,4 @@
-![Amelia – profile](../assets/images/ameliapfp.png)
+![Amelia – profile](../assets/images/ameliapfpsmall.png)
 
 # Amelia
 
