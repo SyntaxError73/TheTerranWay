@@ -63,4 +63,4 @@ She prefers quiet environments, structured spaces, and creative expression throu
 
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
