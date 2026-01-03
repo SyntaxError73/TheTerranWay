@@ -1,3 +1,5 @@
+![Eric Hunter – profile](../assets/images/EricHunter.png)
+
 # Eric Hunter
 
 > “You’re safe. I’ve got you.”
