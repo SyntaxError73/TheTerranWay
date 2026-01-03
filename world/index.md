@@ -6,7 +6,6 @@ title: World Lore & Reference
 # World Lore & Reference
 ...
 
-
 This page serves as a central reference for the world, species, and phenomena surrounding **The Hunters & Amelia**.
 
 It is not a complete history, but rather a collection of explanations meant to answer common questions and provide grounding context for the stories.
