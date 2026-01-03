@@ -63,3 +63,5 @@ He hunted not like a monster.
 
 But like someone who understood exactly what the cost was.
 
+Next: [Primal](primal.md/)
+
