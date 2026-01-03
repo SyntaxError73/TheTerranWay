@@ -60,9 +60,10 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 
 ## Notable Scenes
 
-- [Library Day](../scenes/library-day/)
-- [Standing Her Ground](../scenes/standing-her-ground/)
-- [Daddy–Daughter Day](../scenes/daddy-daughter-day/)
+- [Too Loud Without Meaning To](../scenes/too-loud.md/)
+- [Standing Her Ground](../scenes/standing-her-ground.md/)
+- [Daddy–Daughter Day](../scenes/daddy-daughter-day.md/)
+- [Shortcuts](../scenes/shortcuts.md/)
 
 ---
 
