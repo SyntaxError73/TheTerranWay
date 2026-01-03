@@ -67,6 +67,42 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 - [Daddy–Daughter Day](../scenes/daddy-daughter-day.md/)
 - [Shortcuts](../scenes/shortcuts.md/)
 
+### Ashley’s Songs
+
+**Cosmic Waves**  
+*A fictional song about the death of her older brother in a bitter cold winter, that made her feel too small in the universe.*
+
+<audio controls preload="none">
+  <source src="/assets/audio/cosmicwaves.mp3" type="audio/mpeg">
+</audio>
+
+---
+
+**A Universe Away**  
+*Recorded while she was reminiscing about her home universe.*
+
+<audio controls preload="none">
+  <source src="/assets/audio/auniverseaway.mp3" type="audio/mpeg">
+</audio>
+
+---
+
+**New Year Over Orion**  
+*Recorded after experiencing the fireworks on Earth for the first time.*
+
+<audio controls preload="none">
+  <source src="/assets/audio/newyearsong.mp3" type="audio/mpeg">
+</audio>
+
+---
+
+**Silver Hollow Beyond the Hill**  
+*Ashley sings about the disappearance of her people from Silver Hollow, when she learned about how it happened.*
+
+<audio controls preload="none">
+  <source src="/assets/audio/silverhollowsong.mp3" type="audio/mpeg">
+</audio>
+
 ---
 
 ← [Back to Characters](./index.md)
