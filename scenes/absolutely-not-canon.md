@@ -78,4 +78,4 @@ It was the space between them — where ideas could be ridiculous, unfinished, a
 
 And that was the only rule that ever mattered.
 
-- [Actually, It Makes Sense if you Think About it](actually.md/)
+[Actually, It Makes Sense if you Think About it](actually.md/)
