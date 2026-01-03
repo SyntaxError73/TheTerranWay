@@ -1,3 +1,5 @@
+![Ashley – profile](../assets/images/AshleyPfP.png)
+
 # Ashley Hunter
 
 > “I ain’t changin’ who I am just to make the world quieter.”
