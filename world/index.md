@@ -1,4 +1,11 @@
+---
+layout: silver-hollow
+title: World Lore & Reference
+---
+
 # World Lore & Reference
+...
+
 
 This page serves as a central reference for the world, species, and phenomena surrounding **The Hunters & Amelia**.
 
