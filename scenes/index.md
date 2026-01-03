@@ -43,6 +43,8 @@
 - [The Line She Doesn’t Cross Lightly (And After the Snap)](after-the-snap.md/)
 - [July Eleventh](july-eleventh.md/)
 - [Shed](in-shed.md/)
+- [Staying on the Surface](staying-on-the-surface.md/)
+- [What Stays With You](what-stays-with-you.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
@@ -68,6 +70,7 @@
 - [One From Each Clutch](one-from-each-clutch.md/)
 - [Primal](primal.md/)
 - [What Remains](what-remains.md/)
+- [Different Kinds of Making](different-kinds-of-making.md/)
 
 ## Humor
 - [The Fridge](the-fridge.md/)
@@ -85,5 +88,6 @@
 - [Morning Questions](morning-questions.md/)
 - [Demonstration](demonstration.md/)
 - [Titles Earned Fair and Square](titles-earned.md/)
+- [When the Dead Walk](when-the-dead-walk.md/)
 
 ← [Back to Home](../)
