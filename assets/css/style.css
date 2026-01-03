@@ -1,0 +1,143 @@
+/* ---------- Base reading experience ---------- */
+:root{
+  --bg: #0e1210;                 /* deep forest night */
+  --text: #f2efe7;               /* warm paper white */
+  --muted: rgba(242,239,231,.75);
+
+  --panel: #d8c6a3;              /* wood-like beige */
+  --panel-text: #1b1a17;
+
+  --fog: #63d6ff;                /* Silver Hollow rift glow */
+  --fog-soft: rgba(99,214,255,.18);
+
+  --border: rgba(255,255,255,.10);
+  --shadow: 0 12px 40px rgba(0,0,0,.35);
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body{
+  /* your art background */
+  background-image:
+    linear-gradient(rgba(14,18,16,.55), rgba(14,18,16,.72)),
+    url("/assets/images/fadedforestbg.png");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+  color: var(--text);
+}
+
+/* ---------- Header / site title area ---------- */
+header, .site-header{
+  padding: 2.5rem 1.25rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(6px);
+}
+
+header h1, .site-title{
+  margin: 0 0 .25rem 0;
+  letter-spacing: .3px;
+}
+
+header p, .site-description{
+  margin: 0;
+  color: var(--muted);
+}
+
+/* ---------- Main content panel ---------- */
+main, .page-content, .wrapper, .container{
+  max-width: 920px;
+  margin: 1.75rem auto 4rem;
+  padding: 1.75rem 1.75rem;
+
+  background: color-mix(in srgb, var(--panel) 92%, transparent);
+  color: var(--panel-text);
+
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,.08);
+}
+
+/* Make sure headings look nice inside the panel */
+h1, h2, h3{
+  line-height: 1.25;
+  margin-top: 1.1em;
+}
+
+h1{ margin-top: 0; }
+
+/* ---------- Links with rift-glow hover ---------- */
+a{
+  color: #0f3b45;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+a:hover{
+  color: #052a33;
+  background: var(--fog-soft);
+  box-shadow: 0 0 0 4px var(--fog-soft);
+  border-radius: 8px;
+  text-decoration-thickness: 2px;
+}
+
+a:focus{
+  outline: 2px solid var(--fog);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+/* ---------- Nice blockquotes for taglines ---------- */
+blockquote{
+  margin: 1.25rem 0;
+  padding: .75rem 1rem;
+  border-left: 4px solid rgba(15,59,69,.35);
+  background: rgba(255,255,255,.35);
+  border-radius: 12px;
+}
+
+/* ---------- HR + code + lists ---------- */
+hr{
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.12);
+  margin: 2rem 0;
+}
+
+code{
+  padding: .15rem .35rem;
+  border-radius: 8px;
+  background: rgba(0,0,0,.08);
+}
+
+pre code{
+  display: block;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* ---------- Images (gallery-friendly) ---------- */
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+  margin: .75rem 0;
+}
+
+/* ---------- Mobile spacing ---------- */
+@media (max-width: 720px){
+  body{ font-size: 17px; }
+  main, .page-content, .wrapper, .container{
+    margin: 1rem .8rem 3rem;
+    padding: 1.25rem 1.1rem;
+    border-radius: 16px;
+  }
+}
