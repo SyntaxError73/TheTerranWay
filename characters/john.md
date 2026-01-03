@@ -1,3 +1,5 @@
+![John Hunter – Profile](../assets/images/JohnHunter.png)
+
 # John Hunter
 
 > “Now that right there’s a ten outta ten.”
