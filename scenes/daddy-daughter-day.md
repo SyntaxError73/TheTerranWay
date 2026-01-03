@@ -97,3 +97,5 @@ They stayed there until the game ended, music humming softly in the background, 
 A perfect day.
 
 One Ashley would carry with her for a very long time.
+
+Next: [Freshly Seasoned Hell](freshly-seasoned-hell.md/)
