@@ -63,4 +63,4 @@ Eric is often the one others turn to after things go wrong — not to fix them, 
 - [July Eleventh](../scenes/july-eleventh.md/)
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
