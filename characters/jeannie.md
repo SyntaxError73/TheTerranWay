@@ -63,4 +63,4 @@ Jeannie loves her children fiercely, even when she doesn’t fully understand th
 - [One From Each Clutch](../scenes/one-from-each-clutch.md/)
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
