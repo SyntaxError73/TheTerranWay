@@ -6,7 +6,7 @@ A collection of visual references and moments from The Terran Way universe.
 
 ## Original Concept Art
 ![Ashley – original drawing](../assets/images/og-Ashley.png)
-![Ashley – original 3D Model](../assets/images/3DAshley.png)
+![Ashley – original 3D Model](../assets/images/3dAshley.png)
 ![Ashley – Angry Youngling - Original](../assets/images/og-angrykidashley.png)
 ![Amelia – original drawing](../assets/images/og-amelia.png)
 ![Amelia – original 3D Model](../assets/images/Amelia3D.png)
