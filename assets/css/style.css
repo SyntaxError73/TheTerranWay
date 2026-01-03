@@ -132,6 +132,16 @@ img{
   margin: .75rem 0;
 }
 
+audio {
+  width: 100%;
+  margin: .75rem 0 1.25rem;
+}
+
+audio::-webkit-media-controls-panel {
+  background: rgba(255,255,255,.25);
+  border-radius: 12px;
+}
+
 /* ---------- Mobile spacing ---------- */
 @media (max-width: 720px){
   body{ font-size: 17px; }
