@@ -20,6 +20,8 @@
 - [Normal Wear and Tear](normal-wear-and-tear.md/)
 - [Why Frog Legs](why-frog-legs.md/)
 - [For a Little While](for-a-little-while.md/)
+- [A Day Without the Buffer](a-day-without-the-buffer.md/)
+- [For a Little While](for-a-little-while.md/)
 
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
@@ -35,6 +37,7 @@
 - [Not Turning Her Back On Herself](no-self-betrayal.md/)
 - [No Shortcuts Today](no-shortcuts-today.md/)
 - [Tools, Not Tethers](tools-not-tethers.md/)
+- [For a Little While](after-the-snap.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
@@ -53,6 +56,7 @@
 - [Threads & Headlines](threads-and-headlines.md/)
 - [What She Wears (And Why She Doesn't Care)](what-ashley-wears.md/)
 - [Two Kinds of Trouble](two-kinds.md/)
+- [A System That Works](a-system-that-works.md/)
 
 ## Humor
 - [The Fridge](the-fridge.md/)
