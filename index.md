@@ -8,7 +8,7 @@ This collection exists as a small library of scenes, lore, and character moments
 
 ## Disclaimer
 
-This is a personal fiction archive featuring original characters and stories set in the “Hunters & Amelia” universe.
+This is a personal fiction archive featuring original characters and stories set in the K-23 Universe.
 
 While some character traits, family dynamics, and experiences are *inspired* by my own life and family, the Hunter family is **not meant to represent real people one-to-one**.
 
