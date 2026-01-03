@@ -39,3 +39,8 @@ blockquote{
   background: rgba(99,214,255,.08);
   border-left-color: rgba(99,214,255,.45);
 }
+audio::-webkit-media-controls-panel {
+  background: rgba(99,214,255,.18);
+  box-shadow: 0 0 18px rgba(99,214,255,.25);
+}
+
