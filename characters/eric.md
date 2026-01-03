@@ -58,7 +58,7 @@ Eric is often the one others turn to after things go wrong — not to fix them, 
 - [The Line She Doesn't Cross Lightly (And After the Snap)](../scenes/after-the-snap.md/)
 - [No Such Size](../scenes/no-such-size.md/)
 - [Lakeside Family Dinner](../scenes/lakeside-family-dinner.md/)
-
+- [July Eleventh](../scenes/july-eleventh.md/)
 ---
 
 ← [Back to Characters](./)
