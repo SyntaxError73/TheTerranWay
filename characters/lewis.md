@@ -64,4 +64,4 @@ Lewis thrives on ideas — not necessarily finishing them, but *starting* them.
 
 ---
 
-← [Back to Characters](./)
+← [Back to Characters](./index.md)
