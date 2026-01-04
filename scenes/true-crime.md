@@ -1,5 +1,7 @@
 ### **True Crime**
 
+
+
 This was one of those household differences that never turned into an argument—just a quiet, well-practiced dance.
 It usually started the same way.
 John would be halfway through a video, phone propped up, voice low but intent. Jeannie leaned over his shoulder, brow furrowed, completely absorbed.
@@ -7,7 +9,8 @@ John would be halfway through a video, phone propped up, voice low but intent. J
 Ashley would freeze mid-step.
 Eric would pause wherever he was standing.
 They didn’t need to hear details. The tone was enough.
----
+
+
 Ashley reacted first.
 No words. No complaints.
 She turned on her heel and disappeared down the hall like a ghost who had learned its escape routes well. A moment later, her door clicked shut. Headphones went on. Music came up—loud.
@@ -18,7 +21,8 @@ She hated horror. Hated true crime even more.
 Not because it scared her—but because it reminded her how cruel the world could be. How easily people hurt each other. How real it all was.
 She didn’t want those images living rent-free in her head.
 So she drowned them.
----
+
+
 Eric stayed longer—but not by much.
 He didn’t flinch. Didn’t scowl. Just quietly redirected himself.
 “Y’all mind if I step outside a bit?” he’d ask.
@@ -31,7 +35,8 @@ He sanded. Measured. Cut. Let his hands do something honest and grounded. Someti
 Because Eric knew what happened if he didn’t divert.
 Nightmares came easily after true crime. Faces he’d never seen. Stories his mind finished for him. He woke up tense and exhausted, heart racing over things that weren’t his to carry.
 So he chose not to carry them.
----
+
+
 John and Jeannie noticed—of course they did.
 They just didn’t push.
 John would lower the volume sometimes, glancing down the hall. Jeannie would sigh softly, conflicted but understanding.
