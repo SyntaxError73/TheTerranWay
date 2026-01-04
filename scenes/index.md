@@ -1,4 +1,10 @@
+---
+layout: default
+title: Scenes
+---
+
 # Scenes
+...
 
 ## Slice of Life
 - [Library Day](library-day.md/)
