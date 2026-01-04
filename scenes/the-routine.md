@@ -11,10 +11,10 @@ Stretching came next.
 This part mattered.
 Ashley planted her feet wide and rolled her shoulders slowly, one at a time, feeling the familiar pops and releases along her spine. She leaned forward into a deep fold, palms flat on the floor, tail lifting naturally to counterbalance. No strain. Just length.
 She flowed through it like something rehearsed:
-• A long calf stretch against the wall
-• Hip openers that made her sigh quietly
-• A slow spinal twist, one arm reaching back, feathers settling as her torso rotated
-• A deep squat, balanced easily, elbows pressing into her knees
+- A long calf stretch against the wall
+- Hip openers that made her sigh quietly
+- A slow spinal twist, one arm reaching back, feathers settling as her torso rotated
+- A deep squat, balanced easily, elbows pressing into her knees
 She lifted one leg at a time, drawing it up and back, testing range, flexibility, strength. Her body responded gladly—loose, ready, alive.
 By the time she stood again, she felt present.
 Good.
