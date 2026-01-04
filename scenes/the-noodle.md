@@ -1,3 +1,5 @@
+### **The Noodle**
+
 Lewis had wanted a snake for a long time.
 Not in a passing, that’d be cool way—but in the quiet, persistent way that meant the idea never really left him alone. He researched habitats. Temperatures. Humidity. Feeding schedules. Read forums late at night. Watched videos with the sound low so no one would ask questions yet.
 When he finally asked Jeannie, he did it carefully.
