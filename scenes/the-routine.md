@@ -15,6 +15,7 @@ She flowed through it like something rehearsed:
 - Hip openers that made her sigh quietly
 - A slow spinal twist, one arm reaching back, feathers settling as her torso rotated
 - A deep squat, balanced easily, elbows pressing into her knees
+---
 She lifted one leg at a time, drawing it up and back, testing range, flexibility, strength. Her body responded gladly—loose, ready, alive.
 By the time she stood again, she felt present.
 Good.
