@@ -32,6 +32,7 @@ title: Scenes
 - [Places That Only Exist at Night](dream-maps.md/)
 - [The Hunt](the-hunt.md/)
 - [The Camping Story](the-camping-story.md/)
+- [Nature's End Credits](natures-end-credits.md/)
 
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
