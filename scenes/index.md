@@ -52,6 +52,7 @@ title: Scenes
 - [Shed](in-shed.md/)
 - [Staying on the Surface](staying-on-the-surface.md/)
 - [What Stays With You](what-stays-with-you.md/)
+- [The Voice](the-voice.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
