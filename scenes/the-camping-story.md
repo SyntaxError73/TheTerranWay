@@ -116,17 +116,17 @@ Bladder.
 
 She lay there, eyes open, weighing her options.
 
-Restroom:
-– Far
-– Cold
-– Involved shoes
-– Would wake her up way too much
+> Restroom:
+> – Far
+> – Cold
+> – Involved shoes
+> – Would wake her up way too much
 
-Tree:
-– Close
-– Familiar
-– Efficient
-– Spiritually satisfying
+> Tree:
+> – Close
+> – Familiar
+> – Efficient
+> – Spiritually satisfying
 
 Ashley quietly unzipped the tent and eased herself out, survival pack already strapped around her raptor hips like always. Habit. Comfort. Identity.
 
@@ -166,7 +166,7 @@ She relaxed instantly, tail giving a faint, satisfied flick. “Thank you.”
 
 “No problem,” Lewis said, already lying back down. “Don’t get eaten.”
 
-“I am the thing that eats,” she muttered, but her heart felt lighter as she continued into the trees.
+“I am the thing that eats,” she muttered, but her heart felt lighter as she continued into the trees, found a hidden spot and did her thing — fully standing.
 
 She didn’t notice Eric until she was coming back.
 
