@@ -56,6 +56,7 @@ title: Scenes
 - [What Stays With You](what-stays-with-you.md/)
 - [The Voice](the-voice.md/)
 - [What the Gut Says it Wants](what-the-gut-wants.md/)
+- [Self-Care](self-care.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
@@ -102,5 +103,6 @@ title: Scenes
 - [Titles Earned Fair and Square](titles-earned.md/)
 - [When the Dead Walk](when-the-dead-walk.md/)
 - [Another Chance for Newt](another-chance.md/)
+- [Wet Lips](wet-lips.md/)
 
 ← [Back to Home](../)
