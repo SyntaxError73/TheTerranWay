@@ -33,6 +33,7 @@ title: Scenes
 - [The Hunt](the-hunt.md/)
 - [The Camping Story](the-camping-story.md/)
 - [Nature's End Credits](natures-end-credits.md/)
+- [The Big Fixer-Upper](big-fixer-upper.md/)
 
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
@@ -100,5 +101,6 @@ title: Scenes
 - [Demonstration](demonstration.md/)
 - [Titles Earned Fair and Square](titles-earned.md/)
 - [When the Dead Walk](when-the-dead-walk.md/)
+- [Another Chance for Newt](another-chance.md/)
 
 ← [Back to Home](../)
