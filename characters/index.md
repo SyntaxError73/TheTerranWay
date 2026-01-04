@@ -1,6 +1,12 @@
+---
+layout: default
+title: Characters
+---
+
+# Characters
+...
 
 
-# **Characters**
 
 - [Ashley Hunter](ashley.md/)
 - [Amelia](amelia.md/)
