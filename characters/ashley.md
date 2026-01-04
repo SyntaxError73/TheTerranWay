@@ -73,7 +73,7 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 *A fictional song about the death of her older brother in a bitter cold winter, that made her feel too small in the universe.*
 
 <audio controls preload="none">
-  <source src="/assets/audio/cosmicwaves.mp3" type="audio/mpeg">
+  <source src="../assets/audio/cosmicwaves.mp3" type="audio/mpeg">
 </audio>
 
 ---
@@ -82,7 +82,7 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 *Recorded while she was reminiscing about her home universe.*
 
 <audio controls preload="none">
-  <source src="/assets/audio/auniverseaway.mp3" type="audio/mpeg">
+  <source src="../assets/audio/auniverseaway.mp3" type="audio/mpeg">
 </audio>
 
 ---
@@ -91,7 +91,7 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 *Recorded after experiencing the fireworks on Earth for the first time.*
 
 <audio controls preload="none">
-  <source src="/assets/audio/newyearsong.mp3" type="audio/mpeg">
+  <source src="../assets/audio/newyearsong.mp3" type="audio/mpeg">
 </audio>
 
 ---
@@ -100,7 +100,7 @@ Ashley believes strongly in *being the change she wants to see*, even when it co
 *Ashley sings about the disappearance of her people from Silver Hollow, when she learned about how it happened.*
 
 <audio controls preload="none">
-  <source src="/assets/audio/silverhollowsong.mp3" type="audio/mpeg">
+  <source src="../assets/audio/silverhollowsong.mp3" type="audio/mpeg">
 </audio>
 
 ---
