@@ -36,6 +36,7 @@ title: Scenes
 - [The Big Fixer-Upper](big-fixer-upper.md/)
 - [The Noodle](the-noodle.md/)
 - [The Routine](the-routine.md/)
+- [True Crime](true-crime.md/)
   
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
