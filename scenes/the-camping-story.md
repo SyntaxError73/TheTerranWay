@@ -117,16 +117,16 @@ Bladder.
 She lay there, eyes open, weighing her options.
 
 > Restroom:
-> – Far
-> – Cold
-> – Involved shoes
-> – Would wake her up way too much
+> - Far
+> - Cold
+> - Involved shoes
+> - Would wake her up way too much
 
 > Tree:
-> – Close
-> – Familiar
-> – Efficient
-> – Spiritually satisfying
+> - Close
+> - Familiar
+> - Efficient
+> - Spiritually satisfying
 
 Ashley quietly unzipped the tent and eased herself out, survival pack already strapped around her raptor hips like always. Habit. Comfort. Identity.
 
