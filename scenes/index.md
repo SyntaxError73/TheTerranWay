@@ -31,6 +31,7 @@ title: Scenes
 - [A Day Without the Buffer](a-day-without-the-buffer.md/)
 - [Places That Only Exist at Night](dream-maps.md/)
 - [The Hunt](the-hunt.md/)
+- [The Camping Story](the-camping-story.md/)
 
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
