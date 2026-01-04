@@ -35,7 +35,8 @@ title: Scenes
 - [Nature's End Credits](natures-end-credits.md/)
 - [The Big Fixer-Upper](big-fixer-upper.md/)
 - [The Noodle](the-noodle.md/)
-
+- [The Routine](the-routine.md/)
+  
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
 - [Too Loud Without Meaning To](too-loud.md/)
