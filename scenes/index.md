@@ -53,6 +53,7 @@ title: Scenes
 - [Staying on the Surface](staying-on-the-surface.md/)
 - [What Stays With You](what-stays-with-you.md/)
 - [The Voice](the-voice.md/)
+- [What the Gut Says it Wants](what-the-gut-wants.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
