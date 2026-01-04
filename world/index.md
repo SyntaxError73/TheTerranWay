@@ -149,7 +149,7 @@ The rift appears to have limited intelligence and does not separate closely bond
 *Ashley rarely sings for others. These recordings preserve moments that would otherwise be lost. This one is a song about Silver Hollow.*
 
 <audio controls preload="none" style="width:100%;">
-  <source src="/assets/audio/silverhollowsong.mp3" type="audio/mpeg">
+  <source src="../assets/audio/silverhollowsong.mp3" type="audio/mpeg">
 </audio>
 
 ---
