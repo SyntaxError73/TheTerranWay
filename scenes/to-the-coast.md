@@ -141,7 +141,7 @@ It worked longer than either of them expected.
 
 ---
 
-Amelia found strange shells and little crabs, delighted. She stayed dry, mostly. she kept her tail up and off the sand. Primal followed her lead, protective without hovering, watching her expressions more than the water.
+Amelia found strange shells and little crabs, delighted. She stayed dry, mostly. She kept her tail up and off the sand. Primal followed her lead, protective without hovering, watching her expressions more than the water.
 
 Jeannie and John sat together under an umbrella, feet buried in sand, just *being*. Jeannie read for a bit. John dozed. They shared snacks. Occasionally commented on clouds like it was a shared hobby.
 
