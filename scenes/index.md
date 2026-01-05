@@ -37,6 +37,10 @@ title: Scenes
 - [The Noodle](the-noodle.md/)
 - [The Routine](the-routine.md/)
 - [True Crime](true-crime.md/)
+- [To the Coast](to-the-coast.md/)
+- [Looping Tracks](looping-tracks.md/)
+- [Tasked Tunes](tasked-tunes.md/)
+- [Thought Bubbles](thought-bubbles.md/)
   
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
@@ -60,6 +64,8 @@ title: Scenes
 - [The Voice](the-voice.md/)
 - [What the Gut Says it Wants](what-the-gut-wants.md/)
 - [Self-Care](self-care.md/)
+- [Pause Button](pause-button.md/)
+- [Closure Required](closure-required.md/)
 
 ## World & Adjustment
 - [New Year’s Eve](new-years-eve.md/)
@@ -108,5 +114,6 @@ title: Scenes
 - [Another Chance for Newt](another-chance.md/)
 - [Wet Lips](wet-lips.md/)
 - [Pillow Fight](pillow-fight.md/)
+- [One Trip Wonder](one-trip-wonder.md/)
 
 ← [Back to Home](../)
