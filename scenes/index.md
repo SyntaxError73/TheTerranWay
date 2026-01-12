@@ -117,5 +117,6 @@ title: Scenes
 - [Pillow Fight](pillow-fight.md/)
 - [One Trip Wonder](one-trip-wonder.md/)
 - [The Floor is Still Lava](the-floor-is-still-lava.md/)
+- [Hee-Hee (Do Not Warn Anyone)](the-hee-hee.md/)
 
 ← [Back to Home](../)
