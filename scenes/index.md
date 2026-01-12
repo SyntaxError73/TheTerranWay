@@ -41,6 +41,7 @@ title: Scenes
 - [Looping Tracks](looping-tracks.md/)
 - [Tasked Tunes](tasked-tunes.md/)
 - [Thought Bubbles](thought-bubbles.md/)
+- [Snow Birds](snow-bird.md/)
   
 ## Conflict & Growth
 - [Standing Her Ground](standing-her-ground.md/)
