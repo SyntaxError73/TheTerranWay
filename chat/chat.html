@@ -1,0 +1,43 @@
+---
+layout: default
+title: Hunter Feeds
+---
+
+<section class="chatpage">
+
+  <!-- AshHole -->
+  <div class="discordbox"
+       data-chat-src="{{ site.baseurl }}/chatfeed/ashole.json"
+       data-title="AshHole"
+       data-limit="60">
+
+    <div class="discordbox__title"></div>
+    <div class="discordbox__log"></div>
+
+  </div>
+
+  <!-- Newt's Nook -->
+  <div class="discordbox"
+       data-chat-src="{{ site.baseurl }}/chatfeed/newts-nook.json"
+       data-title="Newt’s Nook"
+       data-limit="60">
+
+    <div class="discordbox__title"></div>
+    <div class="discordbox__log"></div>
+
+  </div>
+
+  <!-- Family Chat -->
+  <div class="discordbox"
+       data-chat-src="{{ site.baseurl }}/chatfeed/family.json"
+       data-title="Hunter Family"
+       data-limit="40">
+
+    <div class="discordbox__title"></div>
+    <div class="discordbox__log"></div>
+
+  </div>
+
+</section>
+
+<script src="{{ site.baseurl }}/assets/js/chat-render.js" defer></script>
