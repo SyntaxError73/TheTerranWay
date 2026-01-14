@@ -82,3 +82,19 @@ $chat-muted: rgba(242,239,231,.75);
   border-radius: 10px;
 }
 
+.discordbox--mini {
+  max-width: 900px;
+
+  .discordbox__log {
+    max-height: 320px; // smaller preview
+  }
+
+  .discordbox__footer {
+    padding: 10px 14px;
+    border-top: 1px solid rgba(255,255,255,0.10);
+    background: rgba(147,132,103,0.04);
+
+    a { text-decoration: none; font-weight: 650; }
+  }
+}
+
