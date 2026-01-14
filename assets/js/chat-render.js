@@ -20,8 +20,32 @@
       minute: "2-digit",
     });
   }
+  
+  async function initBox(box) {
+    const src = box.getAttribute("data-chat-src");
+    const title = box.getAttribute("data-title") || "Chat";
 
-  function renderMessage(msg) {
+    const titleEl = box.querySelector(".discordbox__title");
+    const logEl = box.querySelector(".discordbox__log");
+
+    titleEl.textContent = title;
+
+    try {
+      const res = await fetch(src, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
+      const data = await res.json();
+
+      const msgs = (data.messages || []).slice().sort((a, b) => new Date(a.ts) - new Date(b.ts));
+      logEl.innerHTML = msgs.map(renderMessage).join("");
+
+      // Scroll to bottom by default (Discord feel)
+      logEl.scrollTop = logEl.scrollHeight;
+    } catch (e) {
+      logEl.innerHTML = `<div class="dstatus"><strong>Couldn’t load chat.</strong> ${escapeHtml(String(e))}</div>`;
+    }
+  }
+  
+    function renderMessage(msg) {
     const body = escapeHtml(msg.content || "").replace(/\n/g, "<br>");
     const attachments = (msg.attachments || [])
       .map(a => {
@@ -53,30 +77,6 @@
         </div>
       </div>
     `;
-  }
-
-  async function initBox(box) {
-    const src = box.getAttribute("data-chat-src");
-    const title = box.getAttribute("data-title") || "Chat";
-
-    const titleEl = box.querySelector(".discordbox__title");
-    const logEl = box.querySelector(".discordbox__log");
-
-    titleEl.textContent = title;
-
-    try {
-      const res = await fetch(src, { cache: "no-store" });
-      if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
-      const data = await res.json();
-
-      const msgs = (data.messages || []).slice().sort((a, b) => new Date(a.ts) - new Date(b.ts));
-      logEl.innerHTML = msgs.map(renderMessage).join("");
-
-      // Scroll to bottom by default (Discord feel)
-      logEl.scrollTop = logEl.scrollHeight;
-    } catch (e) {
-      logEl.innerHTML = `<div class="dstatus"><strong>Couldn’t load chat.</strong> ${escapeHtml(String(e))}</div>`;
-    }
   }
 
   document.querySelectorAll(".discordbox[data-chat-src]").forEach(initBox);
