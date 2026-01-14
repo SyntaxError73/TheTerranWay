@@ -1,4 +1,4 @@
-![Jeannie – profile](../assets/images/JeannieHunter.png)
+![Jeannie – profile](../assets/images/profiles/jeannie.png)
 
 # Jeannie Hunter
 
