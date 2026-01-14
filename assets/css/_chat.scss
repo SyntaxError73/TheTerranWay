@@ -1,10 +1,10 @@
 // Adjust these to match your theme variables:
-$chat-bg: #0f1115;
-$chat-panel: rgba(255,255,255,0.04);
+$chat-bg: #d8c6a3;
+$chat-panel: rgba(147,132,103,0.04);
 $chat-border: rgba(255,255,255,0.10);
-$chat-hover: rgba(255,255,255,0.03);
-$chat-text: rgba(255,255,255,0.92);
-$chat-muted: rgba(255,255,255,0.55);
+$chat-hover: rgba(14,49,48,.18);
+$chat-text: rgba(27,26,23,0.92);
+$chat-muted: rgba(242,239,231,.75);
 
 .discordbox {
   border: 1px solid $chat-border;
