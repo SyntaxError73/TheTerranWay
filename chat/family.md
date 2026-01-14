@@ -10,3 +10,10 @@ permalink: /chat/family/
 </div>
 
 <script src="/assets/js/chat-render.js"></script>
+
+
+### **Blog Pages**
+
+[The AshHole](../chat/ashole.md/)
+
+[Newt's Nook](../chat/newts-nook.md/)
