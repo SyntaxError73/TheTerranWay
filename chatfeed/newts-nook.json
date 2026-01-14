@@ -1,0 +1,27 @@
+{
+  "channel": "newts-nook",
+  "updated_at": "2026-01-14T22:03:08.316Z",
+  "messages": [
+    {
+      "id": "1461118198714863698",
+      "ts": "2026-01-14T22:02:04.837Z",
+      "author": "Lewis 'Newt' Hunter",
+      "avatar": "/assets/pfps/lewis.png",
+      "content": "Still loading.",
+      "attachments": []
+    },
+    {
+      "id": "1461118462922326158",
+      "ts": "2026-01-14T22:03:07.829Z",
+      "author": "Lewis 'Newt' Hunter",
+      "avatar": "/assets/pfps/lewis.png",
+      "content": "",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "https://cdn.discordapp.com/attachments/1461030719097667761/1461118462461083759/lizard.gif?ex=6969641b&is=6968129b&hm=da2b2ac6aa1afe0a1ed80a23dfb97202f5e985976ac0d49799450826de49d0f8&"
+        }
+      ]
+    }
+  ]
+}
