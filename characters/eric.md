@@ -1,4 +1,4 @@
-![Eric Hunter – profile](../assets/images/EricHunter.png)
+![Eric Hunter – profile](../assets/images/profiles/eric.png)
 
 # Eric Hunter
 
