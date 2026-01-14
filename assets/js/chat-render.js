@@ -31,6 +31,13 @@
         return "";
       })
       .join("");
+    const limitAttr = box.getAttribute("data-limit");
+    const limit = limitAttr ? parseInt(limitAttr, 10) : 0;
+
+    let msgs = (data.messages || []).slice().sort((a,b)=>new Date(a.ts)-new Date(b.ts));
+    if (limit > 0) msgs = msgs.slice(Math.max(0, msgs.length - limit));
+    logEl.innerHTML = msgs.map(renderMessage).join("");
+
 
     return `
       <div class="dmsg">
