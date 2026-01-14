@@ -37,7 +37,7 @@ All content is shared for **entertainment and storytelling purposes only**.
 
 ---
 
-<div class="discordbox discordbox--mini" data-chat-src="/assets/chat/family.json" data-title="Hunter Family Feed" data-limit="8">
+<div class="discordbox discordbox--mini" data-chat-src="/chatfeed/family.json" data-title="Hunter Family Feed" data-limit="8">
   <div class="discordbox__title">Hunter Family Feed</div>
   <div class="discordbox__log"></div>
   <div class="discordbox__footer">
