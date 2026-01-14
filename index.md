@@ -41,7 +41,7 @@ All content is shared for **entertainment and storytelling purposes only**.
   <div class="discordbox__title">Hunter Family Feed</div>
   <div class="discordbox__log"></div>
   <div class="discordbox__footer">
-    <a href="../chat/family.md">View full chat →</a>
+    <a href="chat/family.md">View full chat →</a>
   </div>
 </div>
 
