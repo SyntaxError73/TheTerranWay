@@ -9,4 +9,4 @@ permalink: /chat/ashole/
   <div class="discordbox__log"></div>
 </div>
 
-<script src="/assets/js/chat-render.js"></script>
+<script src="../assets/js/chat-render.js"></script>
