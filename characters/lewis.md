@@ -1,4 +1,4 @@
-![Lewis Hunter – Profile](../assets/images/LewisNewtHunter.png)
+![Lewis Hunter – Profile](../assets/images/profiles/lewis.png)
 
 # Lewis “Newt” Hunter
 
