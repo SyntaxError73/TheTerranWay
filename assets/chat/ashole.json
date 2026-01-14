@@ -1,1 +1,15 @@
-
+{
+  "channel": "ashole",
+  "updated_at": "2026-01-14T18:42:27.995Z",
+  "messages": [
+    {
+      "id": "1461067962931871960",
+      "ts": "2026-01-14T18:42:27.693Z",
+      "author": "Ashley",
+      "prefix": "as:",
+      "avatar": "/assets/pfps/ashley.png",
+      "content": "This is a test message that will explode eventually",
+      "attachments": []
+    }
+  ]
+}
