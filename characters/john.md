@@ -1,4 +1,4 @@
-![John Hunter – Profile](../assets/images/JohnHunter.png)
+![John Hunter – Profile](../assets/images/profiles/john.png)
 
 # John Hunter
 
