@@ -1,6 +1,6 @@
 {
   "channel": "ashole",
-  "updated_at": "2026-01-14T23:52:28.411Z",
+  "updated_at": "2026-01-15T02:03:15.094Z",
   "messages": [
     {
       "id": "1461144985872367647",
@@ -24,6 +24,14 @@
       "author": "Ashley Hunter",
       "avatar": "../../assets/pfps/pfpashley.png",
       "content": "So I found this really cool looking rock. I might keep it.",
+      "attachments": []
+    },
+    {
+      "id": "1461178888788115702",
+      "ts": "2026-01-15T02:03:14.478Z",
+      "author": "Ashley Hunter",
+      "avatar": "../../assets/pfps/pfpashley.png",
+      "content": "I should know to RUN when Newt has a pillow equipped.",
       "attachments": []
     }
   ]
