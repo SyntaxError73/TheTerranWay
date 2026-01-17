@@ -1,6 +1,6 @@
 {
   "channel": "newts-nook",
-  "updated_at": "2026-01-17T03:46:51.154Z",
+  "updated_at": "2026-01-17T03:48:39.876Z",
   "messages": [
     {
       "id": "1461118198714863698",
@@ -50,6 +50,22 @@
       "author": "Lewis 'Newt' Hunter",
       "avatar": "../../assets/pfps/pfplewis.png",
       "content": "Today wasn't much to talk about. I spent the entire day preparing to play a game that I never got to.\nLet's just say I had some technical difficulties.",
+      "attachments": []
+    },
+    {
+      "id": "1461929981729837261",
+      "ts": "2026-01-17T03:47:48.990Z",
+      "author": "Ashley Hunter",
+      "avatar": "../../assets/pfps/pfpashley.png",
+      "content": "That should go on a shirt! A label that says \"Currently experiencing technical difficulties\"!!",
+      "attachments": []
+    },
+    {
+      "id": "1461930191734444065",
+      "ts": "2026-01-17T03:48:39.059Z",
+      "author": "Lewis 'Newt' Hunter",
+      "avatar": "../../assets/pfps/pfplewis.png",
+      "content": "Ash.... \n\nWell.... yeah.. \nThat tracks.",
       "attachments": []
     }
   ]
