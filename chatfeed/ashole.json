@@ -1,6 +1,6 @@
 {
   "channel": "ashole",
-  "updated_at": "2026-01-23T03:28:43.719Z",
+  "updated_at": "2026-02-03T15:23:53.178Z",
   "messages": [
     {
       "id": "1461144985872367647",
@@ -65,6 +65,19 @@
       "avatar": "../../assets/pfps/pfpashley.png",
       "content": "Y'all.\nmy brain decided to go straight to \"task complete\" mode, and then it SHUT DOWN. Literally non-verbal right now. I can only type... barely.",
       "attachments": []
+    },
+    {
+      "id": "1468265736295153796",
+      "ts": "2026-02-03T15:23:50.591Z",
+      "author": "Ashley Hunter",
+      "avatar": "../../assets/pfps/pfpashley.png",
+      "content": "I absolutely love these little guys! Even though they smell... Maybe even in spite of their smell!",
+      "attachments": [
+        {
+          "type": "image",
+          "url": "../../assets/chat-images/ashole/1468265736295153796_1770132232908.jpg"
+        }
+      ]
     }
   ]
 }
