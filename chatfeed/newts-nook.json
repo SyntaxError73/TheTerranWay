@@ -1,6 +1,6 @@
 {
   "channel": "newts-nook",
-  "updated_at": "2026-01-25T21:49:00.066Z",
+  "updated_at": "2026-02-03T15:18:54.446Z",
   "messages": [
     {
       "id": "1461118198714863698",
@@ -19,7 +19,7 @@
       "attachments": [
         {
           "type": "image",
-          "url": "https://cdn.discordapp.com/attachments/1461030719097667761/1461118462461083759/lizard.gif?ex=6969641b&is=6968129b&hm=da2b2ac6aa1afe0a1ed80a23dfb97202f5e985976ac0d49799450826de49d0f8&"
+          "url": "../../assets/chat-images/newts-nook/lizard-button.gif"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "attachments": [
         {
           "type": "image",
-          "url": "https://cdn.discordapp.com/attachments/1461030719097667761/1461145713391042663/lizard-salamander.gif?ex=69697d7c&is=69682bfc&hm=74f1d2cad06b38d26fecedb7a1b01d86ecc15ce23bf30c0acead4b53e4e40342&"
+          "url": "../../assets/chat-images/newts-nook/lizard-dance.gif"
         }
       ]
     },
@@ -74,6 +74,14 @@
       "author": "Lewis 'Newt' Hunter",
       "avatar": "../../assets/pfps/pfplewis.png",
       "content": "The Internet was out for so long... Y'all.. I thought I was gonna die.",
+      "attachments": []
+    },
+    {
+      "id": "1468264462523044128",
+      "ts": "2026-02-03T15:18:46.900Z",
+      "author": "Lewis 'Newt' Hunter",
+      "avatar": "../../assets/pfps/pfplewis.png",
+      "content": "I wonder why waiting feels like a task I gotta complete by doing absolutely nothing between now and then...",
       "attachments": []
     }
   ]
